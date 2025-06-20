@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Robotics and automation**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C and Javascript**
 
 - 📫 How to reach me **ashgreat145@gmail.com**
 
